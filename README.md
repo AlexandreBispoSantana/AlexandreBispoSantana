@@ -13,7 +13,7 @@
    - **C++;**
    - **TypeScript;**
  
-  -[Linkedin](www.linkedin.com/in/alexandre-bispo-santana-130aaa281).
+  -[Linkedin](https://github.com/AlexandreBispoSantana?tab=repositories).
   -[Projeto](https://github.com/AraceiousMcLovin/AulaDeSexta-Gustavo)
 
  
