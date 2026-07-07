@@ -18,9 +18,9 @@
    - **C++;**
    - **TypeScript;**
  
-  -💼[Linkedin](https://github.com/AlexandreBispoSantana?tab=repositories).
+  -💼[Linkedin](https://www.linkedin.com/in/alexandre-bispo-santana-130aaa281/).
   
-  -🧩[Projeto](https://github.com/AraceiousMcLovin/AulaDeSexta-Gustavo)
+  -🧩[Portifólio Github](https://github.com/AlexandreBispoSantana?tab=repositories)
 
  
    
